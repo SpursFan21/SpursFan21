@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SpursFan21
 
-- 🌱 I’m currently a Software Engineering student learning various web development technologies like Django, React, Next.js, and Node.js. I’m also diving into microservices with Golang, Docker, and Apache Kafka, and exploring cloud computing with AWS.
+- 🌱 I’m currently a Software Engineering student learning various web development technologies like FastAPI, React, Next.js, and Node.js. I’m also diving into microservices with Golang, Docker, and Apache Kafka, and deploying applications on AWS and Vercel.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/).
 
 <!---
