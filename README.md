@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @SpursFan21
 
-🌱 I’m a Software Engineering student learning and using various web development technologies, including:
+🌱 I’m a Software Engineering student learning and working with various web development technologies, including:
 - FastAPI
 - Next.js
 - Go Fiber
