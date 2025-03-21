@@ -2,9 +2,8 @@
 
 🌱 I’m a Software Engineering student learning and using various web development technologies, including:
 - FastAPI
-- React.js
 - Next.js
-- Node.js
+- Go Fiber
 
 I'm also diving into **microservices** with **Golang**, **Docker**, and **Kong**. Additionally, I'm putting my cloud knowledge to use by deploying applications on **AWS** and **Vercel**.
 
