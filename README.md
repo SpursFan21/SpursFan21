@@ -4,6 +4,8 @@
 - FastAPI
 - Next.js
 - Go Fiber
+- Django
+- React.js
 
 I'm also diving into **microservices** with **Golang**, **Docker**, and **Kong**. Additionally, I'm putting my cloud knowledge to use by deploying applications on **AWS** and **Vercel**.
 
