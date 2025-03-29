@@ -1,15 +1,17 @@
-# 👋 Hi, I’m @SpursFan21
+# Hi, I'm @SpursFan21!
 
-🌱 I’m a Software Engineering student learning and working with various web development technologies, including:
-- FastAPI
-- Next.js
-- Go Fiber
-- Django
-- React.js
+I'm a passionate Software Engineering student with a keen interest in building modern web applications and exploring innovative technologies. My journey so far has involved working with a diverse stack, including:
 
-I'm also diving into **microservices** with **Golang**, **Docker**, and **Kong**. Additionally, I'm putting my cloud knowledge to use by deploying applications on **AWS** and **Vercel**.
+- **Backend Development:** Node.js with Express, Go with Fiber, Python with Django
+- **Frontend Development:** Next.js, React.js, Tailwind CSS
+- **Microservices & APIs:** Golang, Docker, Kong API Gateway
+- **Cloud & Deployment:** AWS, Vercel
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/)
+I'm always looking to expand my skill set and tackle new challenges, especially in the realm of scalable, cloud-native applications.
+
+Right now, I’m building **ScrapeSmith**, a cloud-based SaaS platform for automated web scraping, data cleaning, and AI-powered analysis using a microservices architecture.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/).
 
 
 <!---
