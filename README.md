@@ -4,7 +4,7 @@ I'm a passionate Software Engineering student with a keen interest in building m
 
 - **Backend Development:** Node.js with Express, Go with Fiber, Python with Django
 - **Frontend Development:** Next.js, React.js, Tailwind CSS
-- **Microservices & APIs:** Golang, Docker, Kong API Gateway
+- **Microservices:** Golang, Docker, Kong API Gateway
 - **Cloud & Deployment:** AWS, Vercel
 
 I'm always looking to expand my skill set and tackle new challenges, especially in the realm of scalable, cloud-native applications.
