@@ -9,7 +9,7 @@ I'm a passionate Software Engineering student interested in building modern web 
 
 I'm always looking to expand my skill set and tackle new challenges, especially in the realm of scalable, cloud-native applications.
 
-Right now, I’m building **ScrapeSmith**, a cloud-based SaaS platform for automated web scraping, data cleaning, and AI-analysis using an API-gateway microservice architecture.
+Right now, I’m building **ScrapeSmith**, a cloud-based SaaS platform for automated web scraping, data cleaning, and AI analysis, using a microservice architecture.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/).
 
