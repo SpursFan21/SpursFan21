@@ -2,8 +2,6 @@
 
 I'm a final-year Software Engineering student focused on building **cloud-native applications**, **scalable web platforms**, and **modern user interfaces**. I work across the stack with a strong interest in clean architecture and elegant UX.
 
----
-
 ### Core Skills
 
 **Languages:**  
@@ -25,8 +23,8 @@ Fullstack engineering · Cloud infrastructure · SaaS platforms · Microservices
 
 ---
 
-### Connect  
-[LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com)
+### Connect
+[LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com) · [Portfolio](https://my-app-rosy-pi-51.vercel.app/)
 
 
 <!---
