@@ -1,53 +1,33 @@
-# 👋 Hi, I'm Duncan — @SpursFan21
+# Hi, I'm Duncan — @SpursFan21
 
-I'm a final-year Software Engineering student with a passion for building **cloud-native applications**, **modern web platforms**, and **elegant user interfaces**. I enjoy working across the stack — from building scalable backend services to crafting smooth, visually engaging frontend experiences.
-
----
-
-### Current Project
-I'm building **[ScrapeSmith](https://github.com/SpursFan21/ScrapeSmith-Frontend)** — a cloud-based SaaS platform for automated web scraping, intelligent data processing, and AI-powered analysis. It’s designed with a microservice architecture, JWT auth, Stripe payments, and a professional Next.js frontend with Tailwind CSS and animation enhancements.
+I'm a final-year Software Engineering student focused on building **cloud-native applications**, **scalable web platforms**, and **modern user interfaces**. I work across the stack with a strong interest in clean architecture and elegant UX.
 
 ---
 
-### Core Skills & Tools
+### Core Skills
 
-#### Languages
-- **TypeScript & JavaScript** (strongest)
-- Go (intermediate)
-- Python (intermediate)
+**Languages:**  
+TypeScript, JavaScript (strongest) · Go · Python
 
-#### Backend
-- Node.js (Express)
-- Go (Fiber)
-- Python (Django)
-- REST APIs • JWT Auth • PostgreSQL • MongoDB
+**Backend:**  
+Node.js (Express), Go (Fiber), Django · REST APIs · JWT · PostgreSQL · MongoDB
 
-#### Frontend
-- Next.js
-- React.js
-- Tailwind CSS • Headless UI • Framer Motion
-- Strong interest in crafting modern, responsive, and engaging UI/UX
+**Frontend:**  
+Next.js, React · Tailwind CSS · Headless UI · Framer Motion · Clean, responsive UI/UX
 
-#### ☁️ Cloud & DevOps
-- AWS (EC2, VPC, RDS, Elastic Beanstalk, EKS)
-- Vercel • Docker • Kong API Gateway
+**Cloud & DevOps:**  
+AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS) · Docker · Vercel · Kong API Gateway
 
 ---
 
-### Interests
-- Fullstack web development
-- Cloud-native architecture & infrastructure
-- SaaS platforms & microservices
-- Elegant frontend design & UX patterns
-- AI and automation tooling
+### Interests  
+Fullstack engineering · Cloud infrastructure · SaaS platforms · Microservices · UI/UX design
 
 ---
 
-### Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/)
-- [Email](mailto:duncanfrederic@gmail.com)
+### Connect  
+[LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com)
 
----
 
 <!---
 SpursFan21/SpursFan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
