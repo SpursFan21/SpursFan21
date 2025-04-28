@@ -10,8 +10,6 @@ I'm a final-year Software Engineering student focused on building **cloud-native
 
 **Cloud & DevOps:** AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS) · Docker · Vercel · Kong API Gateway
 
-### Interests: Fullstack engineering · Cloud infrastructure · SaaS platforms · Microservices · UI/UX design
-
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com) · [Portfolio](https://my-app-rosy-pi-51.vercel.app/)
 <!---
