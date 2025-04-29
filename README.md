@@ -11,7 +11,7 @@ I'm a final-year Software Engineering student focused on building **cloud-native
 **Cloud & DevOps:** AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS) · Docker · Vercel · Kong API Gateway
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com) · [Portfolio](https://my-app-rosy-pi-51.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com) · [Portfolio](https://my-app-three-smoky-14.vercel.app/)
 <!---
 SpursFan21/SpursFan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
