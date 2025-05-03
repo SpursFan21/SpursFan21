@@ -6,7 +6,7 @@ I'm a final-year Software Engineering student focused on building **cloud-native
 
 **Backend:** Node.js (Express), Go (Fiber), Django · REST APIs · JWT · PostgreSQL · MongoDB
 
-**Frontend:** Next.js · React · Tailwind CSS · Headless UI · Framer Motion · Axios · Redux 
+**Frontend:** Next.js · React · Tailwind CSS · MUI · Headless UI · Framer Motion · Axios · Redux 
 
 **Cloud & DevOps:** AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS) · Docker · Vercel · Kong API Gateway
 
