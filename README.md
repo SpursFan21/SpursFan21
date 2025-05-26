@@ -1,6 +1,6 @@
 # Hi, I'm Duncan — @SpursFan21
 
-I'm a final-year Software Engineering student focused on building **cloud-native applications**, **scalable web platforms**, and **modern user interfaces**. I work across the stack with a strong interest in clean architecture and elegant UX.
+I'm a final-year Software Engineering student focused on building **cloud-native applications**, **scalable web platforms**, and **modern user interfaces**. I work across the stack with a keen interest in clean architecture and elegant UX.
 ### Core Skills
 **Languages:** TypeScript, JavaScript (strongest) · Go · Python
 
