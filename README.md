@@ -2,7 +2,7 @@
 
 I'm a final-year Software Engineering student focused on building **cloud-native applications**, **scalable web platforms**, and **modern user interfaces**. I work across the stack with a keen interest in clean architecture and elegant UX.
 ### Core Skills
-**Languages:** TypeScript, JavaScript (strongest) · Go · Python
+**Languages:** TypeScript/JavaScript (strongest) · Go · Python
 
 **Backend:** Node.js (Express), Go (Fiber), Django · REST APIs · JWT · PostgreSQL · MongoDB
 
