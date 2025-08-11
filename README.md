@@ -8,7 +8,7 @@ I'm a final-year Software Engineering student focused on building **cloud-native
 
 **Frontend:** Next.js · React · Tailwind CSS · MUI · Headless UI · Framer Motion · Axios · Redux 
 
-**Cloud & DevOps:** Vercel · AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS, ECS) · Docker · Kong
+**Cloud & DevOps:** Vercel · AWS (EC2, RDS, VPC, Elastic Beanstalk, EKS, ECS) · Docker · Kong · Supabase
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/duncan-turner-09b89318a/) · [Email](mailto:duncanfrederic@gmail.com) · [Portfolio](https://my-app-three-smoky-14.vercel.app/)
